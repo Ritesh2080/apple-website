@@ -15,6 +15,13 @@ A stunning, responsive clone of the official Apple website highlighting the **iP
 
 ---
 
+
+## 🌐 Live Demo
+
+[Apple website](https://apple-website-seven-nu.vercel.app)
+
+---
+
 ## 🛠️ Tech Stack
 
 | Technology      | Purpose                             |
@@ -115,9 +122,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 Contributions, issues, and feature requests are welcome!  
 Feel free to fork the repository and submit a pull request.
-
----
-
-## 🌐 Live Demo
-
-> Coming Soon...
